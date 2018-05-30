@@ -25,6 +25,7 @@ Here are notes on ideas we have...
 - Data types
 - automatically daskify (most?) functions? [Emma]
 - Big/many images with dask [John]
+- Exploring image viewers
 
 ## ASV
 
